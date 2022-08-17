@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Arial;
+}
+
+.main {
+    background-color: rgb(203, 218, 228);
+    height: 600px;
+    width: 500px;
+    margin:auto;
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+
+.row1 {
+    padding: 6px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.row2 {
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+
+}
+.row3 {
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.row4 {
+    padding: 6px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+}
+
+.checkbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.paragraph {
+    width: 350px;
+}
+input {
+    padding: 2px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 1px;
+    box-shadow: none;
+}
+button {
+    background-color: rgb(106, 163, 233);
+    font-size: 12px;
+    border-radius: 4px;
+    border-width: 1px;
+    box-shadow:none;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-around;
+}
+
+.register {
+    font-size: 40px;
+}
+
+.sign_in {
+    font-size: 40px;
+}
+
+label {
+    font-size: 12px;
+}
+
+p {
+    font-size:12px;
+}
+
+.par {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
