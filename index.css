@@ -65,11 +65,14 @@ input {
     box-shadow: none;
 }
 .register1 {
+    height: 16px;
+    width: 60px;
     background-color: rgb(106, 163, 233);
     font-size: 12px;
+    border: none;
     border-radius: 4px;
     border-width: 1px;
-    box-shadow:none;
+    box-shadow: none;
 }
 
 .buttons {
@@ -79,12 +82,21 @@ input {
 }
 
 .register2 {
-    /* font-size: 70px; */
-    color: rgb(77, 230, 77);
+    background-color: rgb(77, 131, 230);
+    color: whitesmoke;
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 6px;
 }
 
 .sign_in {
-    /* font-size: 40px; */
+    background-color: rgb(95, 223, 93);
+    color: whitesmoke;
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 6px;
 }
 
 label {
