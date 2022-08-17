@@ -91,7 +91,7 @@ input {
 }
 
 .sign_in {
-    background-color: rgb(95, 223, 93);
+    background-color: rgb(45, 173, 43);
     color: whitesmoke;
     height: 40px;
     width: 200px;
@@ -100,7 +100,9 @@ input {
 }
 
 label {
+    margin-left: 5px;
     font-size: 12px;
+    font-weight:bolder;
 }
 
 p {
