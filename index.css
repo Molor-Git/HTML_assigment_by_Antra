@@ -64,7 +64,7 @@ input {
     border-width: 1px;
     box-shadow: none;
 }
-button {
+.register1 {
     background-color: rgb(106, 163, 233);
     font-size: 12px;
     border-radius: 4px;
@@ -75,14 +75,16 @@ button {
 .buttons {
     display: flex;
     justify-content: space-around;
+    padding: 20px;
 }
 
-.register {
-    font-size: 40px;
+.register2 {
+    /* font-size: 70px; */
+    color: rgb(77, 230, 77);
 }
 
 .sign_in {
-    font-size: 40px;
+    /* font-size: 40px; */
 }
 
 label {
